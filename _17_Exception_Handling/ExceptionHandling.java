@@ -1,5 +1,3 @@
-package com._17_Exception_Handling;
-
 public class ExceptionHandling {
     public static void main(String[] args) {
         int a = 10;
