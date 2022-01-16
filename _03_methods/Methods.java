@@ -1,5 +1,3 @@
-package com._03_methods;
-
 public class Methods {
     static void mtMethod() {
         System.out.println("I just got executed");
