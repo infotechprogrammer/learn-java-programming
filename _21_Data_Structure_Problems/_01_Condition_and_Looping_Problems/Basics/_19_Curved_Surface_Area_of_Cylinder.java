@@ -1,5 +1,3 @@
-package com.Condition_and_Looping_Problems.Basics;
-
 import java.util.Scanner;
 public class _19_Curved_Surface_Area_of_Cylinder {
     public static void main(String[] args) {
