@@ -1,4 +1,3 @@
-package com.Array_Problems;
 /*
 Given an integer n, return any array containing n unique integers such that they add up to 0.
 
