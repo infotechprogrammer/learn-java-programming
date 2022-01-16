@@ -1,4 +1,3 @@
-package com._01_basics;
 import java.util.Scanner;
 public class Operators {
     public static void main (String[] args) {
