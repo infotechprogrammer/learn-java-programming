@@ -1,5 +1,3 @@
-package com.Searching_Problems;
-
 import java.util.Arrays;
 
 public class _04_Finding_Max_and_Min {
