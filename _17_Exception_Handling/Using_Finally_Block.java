@@ -1,5 +1,3 @@
-package com._17_Exception_Handling;
-
 public class Using_Finally_Block {
     public static void main(String[] args) {
         int a[] = {5,10};
