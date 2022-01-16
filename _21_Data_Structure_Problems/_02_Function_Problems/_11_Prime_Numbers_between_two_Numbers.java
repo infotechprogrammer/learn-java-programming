@@ -1,5 +1,3 @@
-package com.Function_Problems;
-
 import java.util.Scanner;
 
 public class _11_Prime_Numbers_between_two_Numbers {
