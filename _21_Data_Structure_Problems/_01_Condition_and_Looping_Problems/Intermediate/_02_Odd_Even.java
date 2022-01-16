@@ -1,5 +1,3 @@
-package com.Condition_and_Looping_Problems.Intermediate;
-
 // Program to print whether a number is even or odd, also take input.
 
 import java.util.Scanner;
