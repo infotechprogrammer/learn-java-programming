@@ -1,5 +1,3 @@
-package com.Function_Problems;
-
 import java.util.Scanner;
 
 public class _01_NCR_and_NPR {
