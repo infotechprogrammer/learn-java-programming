@@ -1,5 +1,3 @@
-package com._08_Inheritance._02_Multilevel_Inheritance;
-
 class Animal {
     void eat() {
         System.out.println("eating...");
