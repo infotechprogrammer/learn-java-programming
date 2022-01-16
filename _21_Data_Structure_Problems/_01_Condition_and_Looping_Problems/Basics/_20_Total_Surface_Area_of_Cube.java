@@ -1,5 +1,3 @@
-package com.Condition_and_Looping_Problems.Basics;
-
 import java.util.Scanner;
 public class _20_Total_Surface_Area_of_Cube {
     public static void main(String[] args) {
