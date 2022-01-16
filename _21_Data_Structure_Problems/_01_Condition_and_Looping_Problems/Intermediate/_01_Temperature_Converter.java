@@ -1,5 +1,3 @@
-package com.Condition_and_Looping_Problems.Intermediate;
-
 // This program will convert degree C to F ( Celcius to farenheit )
 
 import java.util.Scanner;
