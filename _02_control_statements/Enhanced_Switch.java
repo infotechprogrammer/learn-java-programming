@@ -1,5 +1,3 @@
-package com._02_control_statements;
-
 import java.util.Scanner;
 // Shorthand Switch Statement
 public class Enhanced_Switch {
