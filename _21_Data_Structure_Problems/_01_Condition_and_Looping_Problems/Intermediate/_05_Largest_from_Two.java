@@ -1,5 +1,3 @@
-package com.Condition_and_Looping_Problems.Intermediate;
-
 // Take 2 numbers as input and print the largest number.
 
 import java.util.Scanner;
