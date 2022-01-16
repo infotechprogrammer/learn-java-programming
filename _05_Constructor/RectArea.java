@@ -1,5 +1,3 @@
-package com._05_Constructor;
-
 class Rectangle {
     int length, width; // Declaration of variables
     Rectangle(int x, int y) { // Definition Constructor
