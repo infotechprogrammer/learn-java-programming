@@ -8,4 +8,4 @@ You can send a pull request if you think that you have better solution than mine
 
 So lets learn Data Structures in Java together.
 
-**Fork** this **repository** and mark a **star** 
+**Fork** this **Repository** and mark a **Star** 
