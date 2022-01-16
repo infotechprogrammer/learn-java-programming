@@ -1,5 +1,3 @@
-package com.Condition_and_Looping_Problems.Intermediate;
-
 // Eg: If number given is 13839 here count number of 3 from this number using programming
 import java.util.Scanner;
 public class _10_Count_RepeatingNumber {
