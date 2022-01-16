@@ -1,5 +1,3 @@
-package com.Condition_and_Looping_Problems.Intermediate;
-
 import java.util.Scanner;
 public class _18_Distance_Between_Two_Points {
     public static void main(String[] args) {
