@@ -1,5 +1,3 @@
-package com._08_Inheritance._01_Single_Inheritance;
-
 class Room {
     int length;
     int breadth;
