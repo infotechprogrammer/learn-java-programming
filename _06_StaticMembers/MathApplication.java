@@ -1,5 +1,3 @@
-package com._06_StaticMembers;
-
 class MathOperation {
     static float mul(float x, float y) {
         return x*y;
