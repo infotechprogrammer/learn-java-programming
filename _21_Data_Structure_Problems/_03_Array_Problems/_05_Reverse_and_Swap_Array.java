@@ -1,5 +1,3 @@
-package com.Array_Problems;
-
 import java.util.Arrays;
 
 public class _05_Reverse_and_Swap_Array {
