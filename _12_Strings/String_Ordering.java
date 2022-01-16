@@ -1,5 +1,3 @@
-package com._12_Strings;
-
 public class String_Ordering {
     static String name[] = {"Madras","Delhi","Ahmedabad","Calcutta","Bombay"};
     public static void main(String[] args) {
