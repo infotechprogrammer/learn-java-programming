@@ -1,5 +1,3 @@
-package com.Condition_and_Looping_Problems.Intermediate;
-
 import java.util.Scanner;
 public class _17_Discount_of_Product {
     public static void main(String[] args) {
