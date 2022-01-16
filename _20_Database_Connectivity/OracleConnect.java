@@ -1,5 +1,3 @@
-package com._20_Database_Connectivity;
-
 import java.sql.*;
 
 public class OracleConnect {
