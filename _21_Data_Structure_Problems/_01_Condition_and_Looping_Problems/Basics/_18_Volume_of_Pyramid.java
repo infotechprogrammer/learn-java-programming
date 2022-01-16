@@ -1,5 +1,3 @@
-package com.Condition_and_Looping_Problems.Basics;
-
 import java.util.Scanner;
 public class _18_Volume_of_Pyramid  {
     public static void main(String[] args) {
