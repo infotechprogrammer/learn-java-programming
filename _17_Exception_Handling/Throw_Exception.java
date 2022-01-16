@@ -1,5 +1,3 @@
-package com._17_Exception_Handling;
-
 class Throwing_own_exception extends Exception {
     Throwing_own_exception(String message) {
         super(message);
