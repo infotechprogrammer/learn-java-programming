@@ -1,5 +1,3 @@
-package com._09_Polymorphism;
-
 // Here same name of method is used in different classes but having different functionalities
 
 class Animal {
