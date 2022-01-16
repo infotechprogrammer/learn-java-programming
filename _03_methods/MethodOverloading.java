@@ -1,5 +1,3 @@
-package com._03_methods;
-
 public class MethodOverloading {
     static int plusMethodInt(int x, int y) {
         return x + y;
