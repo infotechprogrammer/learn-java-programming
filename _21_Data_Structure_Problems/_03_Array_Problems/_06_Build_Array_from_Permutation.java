@@ -1,4 +1,3 @@
-package com.Array_Problems;
 /*
 Given a zero-based permutation nums (0-indexed),
 build an array ans of the same length where ans[i] = nums[nums[i]]
