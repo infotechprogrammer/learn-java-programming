@@ -1,5 +1,3 @@
-package com._12_Strings;
-
 import java.util.Scanner; //Note: This is not imported for string only for Scanner class
 
 public class String_Program {
