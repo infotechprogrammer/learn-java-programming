@@ -1,5 +1,3 @@
-package com._17_Exception_Handling;
-
 public class CmdLineInputException {
     public static void main(String[] args) {
         int invalid = 0;
