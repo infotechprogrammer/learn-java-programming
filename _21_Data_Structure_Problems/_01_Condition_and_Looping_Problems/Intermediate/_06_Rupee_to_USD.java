@@ -1,5 +1,3 @@
-package com.Condition_and_Looping_Problems.Intermediate;
-
 // Input currency in rupees and output in USD.
 
 import java.util.Scanner;
