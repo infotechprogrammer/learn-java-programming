@@ -1,5 +1,3 @@
-package com.Condition_and_Looping_Problems.Intermediate;
-
 public class _32_Even_Days_in_August {
     public static void main(String[] args) {
         int days_in_august = 31, sum = 0;
