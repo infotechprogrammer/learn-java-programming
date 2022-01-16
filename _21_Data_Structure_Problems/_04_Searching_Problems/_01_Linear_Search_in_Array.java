@@ -1,5 +1,3 @@
-package com.Searching_Problems;
-
 public class _01_Linear_Search_in_Array {
     public static void main(String[] args) {
         int[] nums = {5,19,23,45,1,2,3,7,8,45};
