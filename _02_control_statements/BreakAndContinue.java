@@ -1,5 +1,3 @@
-package com._02_control_statements;
-
 public class BreakAndContinue {
     public static void main(String[] args) {
         System.out.println("Breaking at 4 but loop is till 10");
