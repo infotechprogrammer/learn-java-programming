@@ -1,5 +1,3 @@
-package com._03_methods;
-
 public class MethodWithParameters {
     static void myMethod(String fname, int age) {
         System.out.println(fname+" Batra is of age "+age);
