@@ -1,5 +1,3 @@
-package com._10_Abstraction;
-
 abstract class Shape {
     abstract void draw();
 }
