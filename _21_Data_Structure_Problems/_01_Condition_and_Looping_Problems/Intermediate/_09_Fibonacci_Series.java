@@ -1,5 +1,3 @@
-package com.Condition_and_Looping_Problems.Intermediate;
-
 // Print Fibonacci number
 
 import java.util.Scanner;
