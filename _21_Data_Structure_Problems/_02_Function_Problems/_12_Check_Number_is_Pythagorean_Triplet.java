@@ -1,4 +1,3 @@
-package com.Function_Problems;
 // Sum of square of first two digits of number is equal to square of third digit number
 import java.util.Scanner;
 public class _12_Check_Number_is_Pythagorean_Triplet {
