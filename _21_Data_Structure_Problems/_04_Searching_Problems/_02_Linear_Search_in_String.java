@@ -1,5 +1,3 @@
-package com.Searching_Problems;
-
 import java.util.Arrays;
 
 public class _02_Linear_Search_in_String {
