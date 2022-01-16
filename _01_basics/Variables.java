@@ -1,5 +1,3 @@
-package com._01_basics;
-
 public class Variables {
     public static void main (String[] args) {
         String myName = "Sahil";
