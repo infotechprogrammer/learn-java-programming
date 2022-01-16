@@ -1,5 +1,3 @@
-package com.Function_Problems;
-
 import java.util.Scanner;
 public class _05_Voting_Eligibility_Program {
     public static void main(String[] args) {
