@@ -1,5 +1,3 @@
-package com.Condition_and_Looping_Problems.Intermediate;
-
 // Program to input principle, time, and rate (P, T, R) from the user and find Simple Interest.
 
 import java.util.Scanner;
