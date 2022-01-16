@@ -1,5 +1,3 @@
-package com._17_Exception_Handling;
-
 public class Multiple_catch_Blocks {
     public static void main(String[] args) {
         int a[] = {5,10};
