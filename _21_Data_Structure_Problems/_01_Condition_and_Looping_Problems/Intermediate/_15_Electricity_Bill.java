@@ -1,4 +1,3 @@
-package com.Condition_and_Looping_Problems.Intermediate;
 /*
 Eg:
 For first 50 units Rs. 0.50/unit
