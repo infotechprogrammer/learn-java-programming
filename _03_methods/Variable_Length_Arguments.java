@@ -1,4 +1,3 @@
-package com._03_methods;
 import java.util.Arrays;
 
 public class Variable_Length_Arguments {
