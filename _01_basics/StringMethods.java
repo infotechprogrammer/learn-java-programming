@@ -1,5 +1,3 @@
-package com._01_basics;
-
 public class StringMethods {
     public static void main (String[] args) {
         String greeting = "Hello";
