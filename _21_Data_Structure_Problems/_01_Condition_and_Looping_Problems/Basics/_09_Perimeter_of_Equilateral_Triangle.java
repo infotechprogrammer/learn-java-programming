@@ -1,5 +1,3 @@
-package com.Condition_and_Looping_Problems.Basics;
-
 import java.util.Scanner;
 public class _09_Perimeter_of_Equilateral_Triangle {
     public static void main(String[] args) {
