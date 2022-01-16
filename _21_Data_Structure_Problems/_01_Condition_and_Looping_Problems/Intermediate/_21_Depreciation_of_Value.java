@@ -1,4 +1,3 @@
-package com.Condition_and_Looping_Problems.Intermediate;
 //Depreciation is a financial word, defined as the reduction of the recorded cost of
 //a fixed asset in a systematic manner until the value of the asset becomes zero or negligible.
 import java.util.Scanner;
