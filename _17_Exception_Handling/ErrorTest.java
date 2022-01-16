@@ -1,4 +1,3 @@
-package com._17_Exception_Handling;
 import java.util.Scanner;
 class MarksOutOfBounds extends Exception
 
