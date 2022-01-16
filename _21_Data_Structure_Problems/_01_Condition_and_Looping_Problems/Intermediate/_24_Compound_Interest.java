@@ -1,4 +1,3 @@
-package com.Condition_and_Looping_Problems.Intermediate;
 // Formula: Compound Interest = P(1 + R/100)power(r)
 import java.util.Scanner;
 public class _24_Compound_Interest {
