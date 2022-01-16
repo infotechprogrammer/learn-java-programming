@@ -1,5 +1,3 @@
-package com._09_Polymorphism;
-
 class Super {
     int x;
     Super(int x) {
