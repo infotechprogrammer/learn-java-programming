@@ -1,5 +1,3 @@
-// Take 2 numbers as input and print the largest number.
-
 import java.util.Scanner;
 
 public class _05_Largest_from_Two {
