@@ -1,5 +1,3 @@
-package com.Condition_and_Looping_Problems.Basics;
-
 import java.util.Scanner;
 public class _14_Volume_of_Cone {
     public static void main(String[] args) {
