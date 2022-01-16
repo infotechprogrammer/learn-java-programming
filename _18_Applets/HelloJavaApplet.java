@@ -1,5 +1,3 @@
-package com._18_Applets;
-
 import java.awt.*;
 import java.applet.*;
 
