@@ -1,5 +1,3 @@
-package com._09_Polymorphism;
-
 class Vehicle {
     void speed() {
         System.out.println("Vehicle Speeds :");
