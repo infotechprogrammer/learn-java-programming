@@ -1,5 +1,3 @@
-package com._03_methods;
-
 public class Scope {
     public static void main(String[] args) {
 
