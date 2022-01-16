@@ -1,4 +1,3 @@
-package com._05_Constructor;
 // Program to see concept of default and parameterized constructor
 
 class perimeter {
