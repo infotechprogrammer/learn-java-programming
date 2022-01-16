@@ -1,5 +1,3 @@
-package com.Array_Problems;
-
 public class _04_Max_Item {
     public static void main(String[] args) {
         int[] arr = {1,4,18,90,180,36,68,32};
