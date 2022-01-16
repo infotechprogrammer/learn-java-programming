@@ -1,5 +1,3 @@
-package com.Condition_and_Looping_Problems.Basics;
-
 import java.util.Scanner;
 public class _01_Area_of_Circle {
     public static void main(String[] args) {
