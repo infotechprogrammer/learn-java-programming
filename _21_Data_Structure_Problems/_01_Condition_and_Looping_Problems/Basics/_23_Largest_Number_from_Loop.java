@@ -1,5 +1,3 @@
-package com.Condition_and_Looping_Problems.Basics;
-
 import java.util.Scanner;
 public class _23_Largest_Number_from_Loop {
     public static void main(String[] args) {
