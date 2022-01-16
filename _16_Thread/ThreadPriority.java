@@ -1,5 +1,3 @@
-package com._16_Thread;
-
 class Aa extends Thread {
     public void run() {
         System.out.println("Thread A started");
