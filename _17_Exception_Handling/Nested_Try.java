@@ -1,5 +1,3 @@
-package com._17_Exception_Handling;
-
 public class Nested_Try {
     public static void main(String[] args) {
         try {
