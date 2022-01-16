@@ -1,5 +1,3 @@
-package com.Function_Problems;
-
 import java.util.Scanner;
 
 public class _03_Find_Max_and_Min_Numbers {
