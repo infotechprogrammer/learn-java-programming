@@ -1,5 +1,3 @@
-package com.Condition_and_Looping_Problems.Intermediate;
-
 //Take in two numbers and an operator (+, -, *, /) and calculate the value. (Use if conditions)
 
 import java.util.Scanner;
