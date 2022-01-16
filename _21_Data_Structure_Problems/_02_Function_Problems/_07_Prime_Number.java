@@ -1,5 +1,3 @@
-package com.Function_Problems;
-
 import java.util.Scanner;
 public class _07_Prime_Number {
     public static void main(String[] args) {
