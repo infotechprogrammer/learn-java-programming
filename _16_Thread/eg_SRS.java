@@ -1,4 +1,3 @@
-package com._16_Thread;
 //Using suspend, resume and stop methods or operations
 
 class sus_res_stop implements Runnable {
