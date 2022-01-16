@@ -1,5 +1,3 @@
-package com.Function_Problems;
-
 import java.util.Scanner;
 
 public class _13_Check_Pythagorean_Triplet {
