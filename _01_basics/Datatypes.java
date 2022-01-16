@@ -1,5 +1,3 @@
-package com._01_basics;
-
 public class Datatypes {
     public static void main (String[] args) {
         int myNum = 5;               // Integer (whole number)
