@@ -1,5 +1,3 @@
-package com.Function_Problems;
-
 import java.util.Scanner;
 
 public class _08_Display_Grade_of_Marks {
