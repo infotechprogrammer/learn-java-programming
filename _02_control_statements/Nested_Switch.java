@@ -1,5 +1,3 @@
-package com._02_control_statements;
-
 import java.util.Scanner;
 
 public class Nested_Switch {
