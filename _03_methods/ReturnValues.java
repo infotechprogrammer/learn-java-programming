@@ -1,5 +1,3 @@
-package com._03_methods;
-
 public class ReturnValues {
     static int myMethod(int x, int y) {
         return x + y;
