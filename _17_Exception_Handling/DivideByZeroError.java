@@ -1,5 +1,3 @@
-package com._17_Exception_Handling;
-
 public class DivideByZeroError {
     public static void main(String[] args) {
         int a = 10;
