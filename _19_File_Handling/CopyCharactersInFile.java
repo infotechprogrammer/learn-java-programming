@@ -1,4 +1,3 @@
-package com._19_File_Handling;
 import java.io.*;
 public class CopyCharactersInFile {
     public static void main(String[] args) {
