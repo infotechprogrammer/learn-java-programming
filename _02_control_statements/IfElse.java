@@ -1,5 +1,3 @@
-package com._02_control_statements;
-
 public class IfElse {
     public static void main (String[] args) {
         //if statement
