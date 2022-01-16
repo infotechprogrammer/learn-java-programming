@@ -1,5 +1,3 @@
-package com.Condition_and_Looping_Problems.Intermediate;
-
 import java.util.Scanner;
 public class _25_Average_Marks {
     public static void main(String[] args) {
