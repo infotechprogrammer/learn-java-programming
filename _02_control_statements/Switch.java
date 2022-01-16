@@ -1,5 +1,3 @@
-package com._02_control_statements;
-
 import java.util.Scanner;
 public class Switch {
     public static void main(String[] args) {
