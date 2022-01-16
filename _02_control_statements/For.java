@@ -1,5 +1,3 @@
-package com._02_control_statements;
-
 public class For {
     public static void main(String[] args) {
         System.out.println("Loop from 0 to 5");
