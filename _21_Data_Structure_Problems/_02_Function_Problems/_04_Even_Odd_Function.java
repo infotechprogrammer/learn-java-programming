@@ -1,5 +1,3 @@
-package com.Function_Problems;
-
 import java.util.Scanner;
 
 public class _04_Even_Odd_Function {
