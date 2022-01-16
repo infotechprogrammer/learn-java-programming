@@ -1,5 +1,3 @@
-package com._13_Interfaces;
-
 class Student {
     int rollNumber;
     void getNumber(int n) {
