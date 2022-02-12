@@ -1,4 +1,3 @@
-package com.Searching_Problems.Binary_Search;
 // Find no of times array is rotated
 public class _11_Rotated_Array_Count {
     public static void main(String[] args) {
