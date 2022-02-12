@@ -1,5 +1,3 @@
-package com.Searching_Problems.Binary_Search;
-
 public class _02_OrderAgnostic_Binary_Search {
     public static void main(String[] args) {
         int[] ascArr = {-6, -1, 0, 10, 11, 16, 24, 34, 46, 76, 89, 92};
