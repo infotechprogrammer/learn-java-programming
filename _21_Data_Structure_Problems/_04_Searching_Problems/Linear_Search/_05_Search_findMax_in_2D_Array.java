@@ -1,5 +1,3 @@
-package com.Searching_Problems.Linear_Search;
-
 import java.util.Arrays;
 
 public class _05_Search_findMax_in_2D_Array {
