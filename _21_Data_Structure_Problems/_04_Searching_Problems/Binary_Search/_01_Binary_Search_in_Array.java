@@ -1,5 +1,3 @@
-package com.Searching_Problems.Binary_Search;
-
 //Array is sorted we have to apply binary search to search target element
 public class _01_Binary_Search_in_Array {
     public static void main(String[] args) {
