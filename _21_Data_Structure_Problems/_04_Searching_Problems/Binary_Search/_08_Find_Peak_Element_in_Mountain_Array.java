@@ -1,4 +1,3 @@
-package com.Searching_Problems.Binary_Search;
 /*
 Let's call an array arr a mountain if the following properties hold:
 arr.length >= 3
