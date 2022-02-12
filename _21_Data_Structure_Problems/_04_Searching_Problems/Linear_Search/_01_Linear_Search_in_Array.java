@@ -1,5 +1,3 @@
-package com.Searching_Problems.Linear_Search;
-
 //Array of elements is given, we have to apply binary search to search target element
 public class _01_Linear_Search_in_Array {
     public static void main(String[] args) {
