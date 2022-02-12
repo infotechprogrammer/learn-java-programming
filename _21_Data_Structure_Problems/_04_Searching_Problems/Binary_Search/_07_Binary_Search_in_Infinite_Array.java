@@ -1,5 +1,3 @@
-package com.Searching_Problems.Binary_Search;
-
 public class _07_Binary_Search_in_Infinite_Array {
     public static void main(String[] args) {
         int[] arr = {3,5,7,8,9,10,18,90,80,100,120,130,145,160,170,320,502,830};
