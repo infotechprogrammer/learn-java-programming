@@ -1,5 +1,3 @@
-package com.Searching_Problems.Binary_Search;
-
 public class _03_Ceiling_of_Number {
     public static void main(String[] args) {
         int[] arr = {2,3,5,9,14,16,18};
