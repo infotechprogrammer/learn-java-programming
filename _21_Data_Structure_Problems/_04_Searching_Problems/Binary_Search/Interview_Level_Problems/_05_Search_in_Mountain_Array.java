@@ -1,4 +1,3 @@
-package com.Searching_Problems.Binary_Search.Interview_Level_Problems;
 /*
 Given a mountain array mountainArr,
 return the minimum index such that mountainArr.get(index) == target.
