@@ -1,4 +1,3 @@
-package com.Searching_Problems.Binary_Search.Interview_Level_Problems;
 /*
 Given an array nums which consists of non-negative integers and
 an integer m, you can split the array into m non-empty continuous subarrays.
