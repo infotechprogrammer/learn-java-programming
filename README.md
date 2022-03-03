@@ -1,4 +1,4 @@
-# Learn Java Programming <a href="https://www.oracle.com/java/technologies/downloads/"><img alt="Java" width="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" /> <a/>
+# Learn Java Programming <a href="https://www.oracle.com/java/technologies/downloads/"><img alt="Java" width="55px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" /> <a/>
 
 - In this repository you will find topic wise programs of java from basics to intermediate.
 
